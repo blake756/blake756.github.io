@@ -9,7 +9,7 @@ permalink: /books/triplegoddess/
   <div class="book-header">
 
     <div class="book-cover">
-      <img src="/assets/images/yellowface.jpg"
+      <img src="/assets/images/wrath-of-the-triple-goddess.png"
            alt=" book cover">
     </div>
 
