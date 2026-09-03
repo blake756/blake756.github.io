@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "We Solve Murders
+title: "We Solve Murders"
 permalink: /books/wesolvemurders/
 ---
 
