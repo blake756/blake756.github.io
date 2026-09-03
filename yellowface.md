@@ -9,7 +9,7 @@ permalink: /books/yellowface/
   <div class="book-header">
 
     <div class="book-cover">
-      <img src="/assets/images/yellowface.jpg"
+      <img src="/assets/images/yellowface.png"
            alt=" book cover">
     </div>
 
