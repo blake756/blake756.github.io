@@ -5,7 +5,7 @@ permalink: /books/the-seven-dials-mystery/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/the-seven-dials-mystery.jpg" alt="The Seven Dials Mystery book cover">
+  <img src="/assets/images/seven-dials-mystery.png" alt="The Seven Dials Mystery book cover">
 </div>
 
 <div class="book-info">
