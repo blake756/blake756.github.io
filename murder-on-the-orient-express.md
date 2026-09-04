@@ -5,7 +5,7 @@ permalink: /books/murder-on-the-orient-express/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/murder-on-the-orient-express.jpg" alt="Murder on the Orient Express book cover">
+  <img src="/assets/images/murder-on-the-orient-express.png" alt="Murder on the Orient Express book cover">
 </div>
 
 <div class="book-info">
