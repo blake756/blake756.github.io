@@ -5,7 +5,7 @@ permalink: /books/dark-matter/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/dark-matter.jpg" alt="Dark Matter book cover">
+  <img src="/assets/images/dark-matter.png" alt="Dark Matter book cover">
 </div>
 
 <div class="book-info">
