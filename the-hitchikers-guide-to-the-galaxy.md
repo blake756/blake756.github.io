@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "The Hitchiker's Guide to the Galaxy"
-permalink: /books/the-hitchikers-guide-to-the-galaxy/
+permalink: /books/the-hitchhikers-guide-to-the-galaxy/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/hitchhikers-guide.jpg" alt="The Hitchiker's Guide to the Galaxy book cover">
+  <img src="/assets/images/hitchhikers-guide.png" alt="The Hitchiker's Guide to the Galaxy book cover">
 </div>
 
 <div class="book-info">
