@@ -5,7 +5,7 @@ permalink: /books/lessons-in-chemistry/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/lessons-in-chemistry.jpg" alt="Lessons in Chemistry book cover">
+  <img src="/assets/images/lessons-in-chemistry.png" alt="Lessons in Chemistry book cover">
 </div>
 
 <div class="book-info">
