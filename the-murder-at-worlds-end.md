@@ -5,7 +5,7 @@ permalink: /books/the-murder-at-worlds-end/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/the-murder-at-worlds-end.jpg" alt="The Murder at World's End book cover">
+  <img src="/assets/images/murder-at-worlds-end.png" alt="The Murder at World's End book cover">
 </div>
 
 <div class="book-info">
