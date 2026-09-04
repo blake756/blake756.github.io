@@ -5,7 +5,7 @@ permalink: /books/the-benevolent-society-of-ill-mannered-ladies/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/the-benevolent-society-of-ill-mannered-ladies.jpg" alt="The Benevolent Society of Ill-Mannered Ladies book cover">
+  <img src="/assets/images/the-benevolent-society-of-ill-mannered-ladies.png" alt="The Benevolent Society of Ill-Mannered Ladies book cover">
 </div>
 
 <div class="book-info">
