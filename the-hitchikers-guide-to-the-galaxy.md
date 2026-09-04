@@ -5,7 +5,7 @@ permalink: /books/the-hitchikers-guide-to-the-galaxy/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/the-hitchikers-guide-to-the-galaxy.jpg" alt="The Hitchiker's Guide to the Galaxy book cover">
+  <img src="/assets/images/hitchhikers-guide.jpg" alt="The Hitchiker's Guide to the Galaxy book cover">
 </div>
 
 <div class="book-info">
