@@ -5,7 +5,7 @@ permalink: /books/the-thursday-murder-club/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/the-thursday-murder-club.jpg" alt="The Thursday Murder Club book cover">
+  <img src="/assets/images/thursday-murder-club.png" alt="The Thursday Murder Club book cover">
 </div>
 
 <div class="book-info">
