@@ -5,7 +5,7 @@ permalink: /books/big-fish/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/big-fish.jpg" alt="Big Fish book cover">
+  <img src="/assets/images/big-fish.png" alt="Big Fish book cover">
 </div>
 
 <div class="book-info">
