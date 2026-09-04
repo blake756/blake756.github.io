@@ -5,7 +5,7 @@ permalink: /books/the-southern-book-clubs-guide-to-slaying-vampires/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/the-southern-book-clubs-guide-to-slaying-vampires.jpg" alt="The Southern Book Club's Guide to Slaying Vampires book cover">
+  <img src="/assets/images/southern-book-club.png" alt="The Southern Book Club's Guide to Slaying Vampires book cover">
 </div>
 
 <div class="book-info">
