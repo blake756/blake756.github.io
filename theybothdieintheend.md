@@ -5,7 +5,7 @@ permalink: /books/theybothdieintheend/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/overnight-guest.png" alt="The Overnight Guest book cover">
+  <img src="/assets/images/they-both-die.png" alt="They Both Die in the End book cover">
 </div>
 
     <div class="book-info">
