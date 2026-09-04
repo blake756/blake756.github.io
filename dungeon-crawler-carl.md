@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Dungeon Crawler Carl"
-permalink: /books/dungeon-crawler-carl.png/
+permalink: /books/dungeon-crawler-carl/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/dungeon-crawler-carl.jpg" alt="Dungeon Crawler Carl book cover">
+  <img src="/assets/images/dungeon-crawler-carl.png" alt="Dungeon Crawler Carl book cover">
 </div>
 
 <div class="book-info">
