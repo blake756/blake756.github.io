@@ -5,7 +5,7 @@ permalink: /books/the-data-detective-ten-easy-rules-to-make-sense-of-statistics/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/the-data-detective-ten-easy-rules-to-make-sense-of-statistics.jpg" alt="The Data Detective: Ten Easy Rules to Make Sense of Statistics book cover">
+  <img src="/assets/images/the-data-detective.png" alt="The Data Detective: Ten Easy Rules to Make Sense of Statistics book cover">
 </div>
 
 <div class="book-info">
