@@ -9,7 +9,7 @@ permalink: /books/murderinmorningsideheights/
   <div class="book-header">
 
     <div class="book-cover">
-      <img src="/assets/images/murder-in-morningside-heights.jpg"
+      <img src="/assets/images/murder-in-morningside-heights.png"
            alt="Murder in Morningside Heights book cover">
     </div>
 
