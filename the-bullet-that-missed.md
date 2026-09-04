@@ -5,7 +5,7 @@ permalink: /books/the-bullet-that-missed/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/the-bullet-that-missed.jpg" alt="The Bullet That Missed book cover">
+  <img src="/assets/images/the-bullet-that-missed.png" alt="The Bullet That Missed book cover">
 </div>
 
 <div class="book-info">
