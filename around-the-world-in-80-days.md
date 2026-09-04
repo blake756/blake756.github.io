@@ -5,7 +5,7 @@ permalink: /books/around-the-world-in-80-days/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/around-the-world-in-80-days.png" alt="Around the World in 80 Days book cover">
+  <img src="/assets/images/around-the-world-in-eighty-days.png" alt="Big Fish book cover">
 </div>
 
 <div class="book-info">
