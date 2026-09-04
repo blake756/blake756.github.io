@@ -5,7 +5,7 @@ permalink: /books/ready-player-two/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/ready-player-two.jpg" alt="Ready Player Two book cover">
+  <img src="/assets/images/ready-player-two.png" alt="Ready Player Two book cover">
 </div>
 
 <div class="book-info">
