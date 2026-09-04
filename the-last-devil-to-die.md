@@ -5,7 +5,7 @@ permalink: /books/the-last-devil-to-die/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/last-devil-to-die.jpg" alt="The Last Devil to Die book cover">
+  <img src="/assets/images/last-devil-to-die.png" alt="The Last Devil to Die book cover">
 </div>
 
 <div class="book-info">
