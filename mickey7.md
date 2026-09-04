@@ -5,7 +5,7 @@ permalink: /books/mickey7/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/mickey7.png" alt="Mickey7 book cover">
+  <img src="/assets/images/mickey-7.png" alt="Mickey7 book cover">
 </div>
 
 <div class="book-info">
