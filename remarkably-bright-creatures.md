@@ -5,7 +5,7 @@ permalink: /books/remarkably-bright-creatures/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/remarkably-bright-creatures.jpg" alt="Remarkably Bright Creatures book cover">
+  <img src="/assets/images/remarkably-bright-creatures.png" alt="Remarkably Bright Creatures book cover">
 </div>
 
 <div class="book-info">
