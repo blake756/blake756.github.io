@@ -5,7 +5,7 @@ permalink: /books/lies-my-teacher-told-me-3rd-edition/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/lies-my-teacher-told-me-3rd-edition.jpg" alt="Lies My Teacher Told Me (3rd edition) book cover">
+  <img src="/assets/images/lies-my-teacher-told-me.png" alt="Lies My Teacher Told Me (3rd edition) book cover">
 </div>
 
 <div class="book-info">
