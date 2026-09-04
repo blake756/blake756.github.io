@@ -5,7 +5,7 @@ permalink: /books/sunrise-on-the-reaping/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/sunrise-on-the-reaping.jpg" alt="Sunrise on the Reaping book cover">
+  <img src="/assets/images/sunrise-on-the-reaping.png" alt="Sunrise on the Reaping book cover">
 </div>
 
 <div class="book-info">
