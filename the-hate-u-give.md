@@ -5,7 +5,7 @@ permalink: /books/the-hate-u-give/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/the-hate-u-give.png" alt="The Hate U Give book cover">
+  <img src="/assets/images/the-hate-you-give.png" alt="The Hate U Give book cover">
 </div>
 
 <div class="book-info">
