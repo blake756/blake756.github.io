@@ -5,7 +5,7 @@ permalink: /books/the-chalice-of-the-gods/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/chalice-of-the-gods.jpg" alt="The Chalice of the Gods book cover">
+  <img src="/assets/images/chalice-of-the-gods.png" alt="The Chalice of the Gods book cover">
 </div>
 
 <div class="book-info">
