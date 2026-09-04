@@ -5,7 +5,7 @@ permalink: /books/the-man-who-died-twice/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/the-man-who-died-twice.jpg" alt="The Man Who Died Twice book cover">
+  <img src="/assets/images/the-man-who-died-twice.png" alt="The Man Who Died Twice book cover">
 </div>
 
 <div class="book-info">
