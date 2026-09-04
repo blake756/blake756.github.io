@@ -5,7 +5,7 @@ permalink: /books/the-housemaids-secret/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/the-housemaids-secret.jpg" alt="The Housemaid's Secret book cover">
+  <img src="/assets/images/housemaids-secret.png" alt="The Housemaid's Secret book cover">
 </div>
 
 <div class="book-info">
