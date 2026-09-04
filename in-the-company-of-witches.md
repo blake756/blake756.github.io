@@ -5,7 +5,7 @@ permalink: /books/in-the-company-of-witches/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/in-the-company-of-witches.jpg" alt="In The Company of Witches book cover">
+  <img src="/assets/images/in-the-company-of-witches.png" alt="In The Company of Witches book cover">
 </div>
 
 <div class="book-info">
