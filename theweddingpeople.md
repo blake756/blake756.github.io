@@ -4,14 +4,9 @@ title: "The Wedding People"
 permalink: /books/theweddingpeople/
 ---
 
-<div class="book-page">
-
-  <div class="book-header">
-
-    <div class="book-cover">
-      <img src="/assets/images/wedding-people.png"
-           alt=" book cover">
-    </div>
+<div class="book-cover">
+  <img src="/assets/images/wedding-people.png" alt="The Wedding People book cover">
+</div>
 
     <div class="book-info">
 
