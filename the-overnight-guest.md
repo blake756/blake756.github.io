@@ -5,7 +5,7 @@ permalink: /books/the-overnight-guest/
 ---
 
 <div class="book-cover">
-  <img src="/assets/images/the-overnight-guest.jpg" alt="The Overnight Guest book cover">
+  <img src="/assets/images/overnight-guest.png" alt="The Overnight Guest book cover">
 </div>
 
 <div class="book-info">
