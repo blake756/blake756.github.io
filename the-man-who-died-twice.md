@@ -38,5 +38,5 @@ permalink: /books/the-man-who-died-twice/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+I liked this one more than the first one. Cool story. 
 </p>
