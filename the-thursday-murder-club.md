@@ -38,5 +38,5 @@ permalink: /books/the-thursday-murder-club/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+I like this book! The series is great, but the first one isn't the best. The other books are more interesting. Please read this book so you can read the other ones. 
 </p>
