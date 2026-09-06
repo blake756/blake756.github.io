@@ -38,5 +38,5 @@ permalink: /books/big-fish/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+I read this book because I am a big fan of the musical. I like how Edward Bloom's life is described like a legend. I didn't understand every part of this book, but I would say that it was worth reading. I like how Edward Bloom isn't really a good person in this version of the story. The musical portrays him in a less nuanced way, which works for musical theatre. I liked both versions. Would recommend, but I think it's easier to get into the book after watching the musical or the movie. 
 </p>
