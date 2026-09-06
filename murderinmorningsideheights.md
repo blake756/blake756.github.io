@@ -57,49 +57,13 @@ permalink: /books/murderinmorningsideheights/
 
   <section>
 
-    <h2>📖 My Review</h2>
+    <h2>My Review</h2>
 
     <p>
-      I didn't love this book. :/
+    This book is a really good work of historical fiction. The setting is great, the characters are likeable. The mystery is bland. I can tell that the author is really passionate about history and the details were very interested. I just think the plot is not there. I wouldn't recommend this one (unless you love the period). I don't think I wasted my time reading this, but I didn't love it. 
     </p>
 
-    <p>
-      Add your longer thoughts about the book here. Talk about the
-      characters, plot, pacing, writing, or whatever stood out to you.
-    </p>
 
-  </section>
-
-
-  <section>
-
-    <h2>💭 What I Thought</h2>
-
-    <h3>What I liked</h3>
-
-    <ul>
-      <li>Add something you enjoyed.</li>
-      <li>Add another thing you enjoyed.</li>
-    </ul>
-
-    <h3>What I didn't like</h3>
-
-    <ul>
-      <li>Add something that didn't work for you.</li>
-      <li>Add another criticism.</li>
-    </ul>
-
-  </section>
-
-
-  <section class="verdict">
-
-    <h2>⭐ Final Verdict</h2>
-
-    <p>
-      <strong>Would I recommend it?</strong>
-      Probably not.
-    </p>
 
   </section>
 
