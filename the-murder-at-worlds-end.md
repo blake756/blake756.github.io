@@ -38,5 +38,5 @@ permalink: /books/the-murder-at-worlds-end/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+The setting and the jokes really make this book shine. I am excited to read the next one in the series. 
 </p>
