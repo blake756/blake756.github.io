@@ -38,5 +38,5 @@ permalink: /books/the-chalice-of-the-gods/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+I liked returning to the Percy Jackson universe in this chill story. Ya it was cool. 
 </p>
