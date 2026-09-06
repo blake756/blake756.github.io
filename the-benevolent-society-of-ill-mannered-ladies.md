@@ -38,5 +38,5 @@ permalink: /books/the-benevolent-society-of-ill-mannered-ladies/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+This book was neat! This is what I wanted Murder in Morningside Heights to be (sorry Murder in Morningside Heights fans). The characters, the plot, AND setting are good. The vignettes of historical scenes of abuse toward women were done well and with respect. This book brought attention to these issues. I loved reading this book, would recommend. 
 </p>
