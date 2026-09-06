@@ -38,5 +38,5 @@ permalink: /books/ready-player-two/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+I like the strict timeline in this book and it feels like a natural extension of the first one. The stakes felt higher in this installment as well. 
 </p>
