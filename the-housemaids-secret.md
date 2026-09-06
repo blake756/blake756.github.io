@@ -38,5 +38,5 @@ permalink: /books/the-housemaids-secret/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+The suspense in this book is *chef's kiss*. The plot had me hooked. Apparently, this is the second book in the series. I haven't read the first one. Oops! 
 </p>
