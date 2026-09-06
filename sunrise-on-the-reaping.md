@@ -38,5 +38,5 @@ permalink: /books/sunrise-on-the-reaping/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+Devastating and beautiful. I loved this book but it was painful to read. It's just so sad. It's just so good. I like how this book called back elements of The Ballad of Songbirds and Snakes. This book ties the entire hunger games universe together in the best way. Everything that happened after Haymitch "won" the Games had me in tears. Fantastic book. I'm sad tho. 
 </p>
