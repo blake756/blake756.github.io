@@ -38,5 +38,5 @@ permalink: /books/ready-player-one/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+I like the concept of this book. It's a fun romp in a really nerdy virtual world. I don't love Wade as the main character. 
 </p>
