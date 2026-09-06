@@ -38,5 +38,5 @@ permalink: /books/the-last-devil-to-die/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+This book is really sad. The character development in this one is well done. The mystery is good, too. 
 </p>
