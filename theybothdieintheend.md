@@ -52,50 +52,13 @@ permalink: /books/theybothdieintheend/
 
   <section>
 
-    <h2>📖 My Review</h2>
+    <h2>My Review</h2>
 
     <p>
-      I didn't love this book. :/
-    </p>
-
-    <p>
-      Add your longer thoughts about the book here. Talk about the
-      characters, plot, pacing, writing, or whatever stood out to you.
+    Oh this was devastating! I'm crying! I loved the details in this book. The romance was so great. I loved how this couple's tragedy was a metaphor for existing as queer people in a heteronormative society. The length is perfect. It has enough time to breathe without being too long. Amazing book. 
     </p>
 
   </section>
 
-
-  <section>
-
-    <h2>💭 What I Thought</h2>
-
-    <h3>What I liked</h3>
-
-    <ul>
-      <li>Add something you enjoyed.</li>
-      <li>Add another thing you enjoyed.</li>
-    </ul>
-
-    <h3>What I didn't like</h3>
-
-    <ul>
-      <li>Add something that didn't work for you.</li>
-      <li>Add another criticism.</li>
-    </ul>
-
-  </section>
-
-
-  <section class="verdict">
-
-    <h2>⭐ Final Verdict</h2>
-
-    <p>
-      <strong>Would I recommend it?</strong>
-      Probably not.
-    </p>
-
-  </section>
 
 </div>
