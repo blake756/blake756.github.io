@@ -38,5 +38,7 @@ permalink: /books/around-the-world-in-80-days/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+I enjoyed this book!  I wasn't expecting this book to be as satirical as it was. There were a lot of funny moments that I wasn't expecting. The main character of this book is Phineas Fogg, a rich man who follows routine strictly. He made a bet with some people in a club and he has to travel around the world in 80 days or he'll lose his fortune. He spends almost the entire trip calcuating the odds of making it back in time without enjoying the view. He is also delayed by circumstances that were unforeseen at almost every turn. The book is written in third person and the reader never knows what Phineas Fogg is thinking about. Usually, characters in adventure novels go on an emotional journey as well. Not here. 😭 It's really funny. 
+
+I was worried that reading a book this old would be boring, but I had fun. I like the characters a lot and their misadventures. Would recommend! Sometimes the descriptions of places around the world were a little boring, but I liked it overall. :]
 </p>
