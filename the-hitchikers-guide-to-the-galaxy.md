@@ -38,5 +38,5 @@ permalink: /books/the-hitchhikers-guide-to-the-galaxy/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+Bruh this book is so goofy. Heehee haha. 
 </p>
