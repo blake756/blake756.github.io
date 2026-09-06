@@ -38,5 +38,5 @@ permalink: /books/lessons-in-chemistry/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+I liked this book. I think parts of it are a little slow for my taste, but I enjoyed the characters and the plot about grief is done well. Elizabeth Zott is a great character, and I like how she doesn't care what others think. Good book !!  ✨✨✨✨
 </p>
