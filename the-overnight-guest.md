@@ -38,5 +38,5 @@ permalink: /books/the-overnight-guest/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+Super good. I think the big reveal is maybe a bit obvious. HOWEVER, this book is great. Great if you like true crime stories. 
 </p>
