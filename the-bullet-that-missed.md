@@ -38,5 +38,5 @@ permalink: /books/the-bullet-that-missed/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+I'm just a fan of this series, and this book didn't disappoint. It's not my favorite of the series but it was great. Yeah. :]
 </p>
