@@ -38,5 +38,5 @@ permalink: /books/in-the-company-of-witches/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+A cozy read about a family of witches that have to solve a murder mystery. I liked this book a lot. I think the actual mystery was a little boring, but that didn't matter to me. The setting and characters are so rich. I would recommend this book for anyone who likes to listen to books before bed or to relax.
 </p>
