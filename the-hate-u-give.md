@@ -38,5 +38,5 @@ permalink: /books/the-hate-u-give/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+Really impactful book. I loved it. You should read it. 
 </p>
