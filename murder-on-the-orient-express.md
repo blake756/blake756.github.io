@@ -38,5 +38,5 @@ permalink: /books/murder-on-the-orient-express/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+This book is so, so, so good. The plot twist is crazy! I really loved this iconic mystery. Also a pretty short read. Would recommend!!!!
 </p>
