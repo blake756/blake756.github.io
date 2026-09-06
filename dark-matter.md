@@ -38,5 +38,5 @@ permalink: /books/dark-matter/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+This book is interesting! A professor is kidnapped by a version of himself from an alternate universe, and the clone steals his life. I liked the pacing of this book. The first 100 pages are fun. It slows down after that, but it picks up before the end. I liked how this book portrays the concept of the multiverse. Would recommend for a quick read. It wasn't my favorite book in the world but I was rooting for the main character the whole time. Fun!
 </p>
