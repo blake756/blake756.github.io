@@ -38,5 +38,5 @@ permalink: /books/mickey7/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+This book is so wild. That one scene is crazy. 😭 If you've read it, you know what I'm talking about. This book is about this guy who signs up to be an Expendable on a space mission. An Expendable is a person who is used as a test dummy for dangerous situations. The main character's brain is scanned onto a computer and he gets cloned every time he dies. I liked Mickey's backstory a lot and the plot is fun. Would recommend. 
 </p>
