@@ -38,5 +38,5 @@ permalink: /books/the-seven-dials-mystery/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+The mystery is neat! I found this book easy to read. It's not my favorite Christie novel by far, but I had fun. Maybe read it idk.
 </p>
