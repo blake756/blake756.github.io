@@ -38,5 +38,5 @@ permalink: /books/remarkably-bright-creatures/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+FANTASTIC book. This characters are so lifelike. I simply adore this book. 
 </p>
