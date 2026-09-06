@@ -38,5 +38,5 @@ permalink: /books/the-southern-book-clubs-guide-to-slaying-vampires/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+LOVE this book!!!! The supernatural aspects of the book are scary, but the scarier part is that the violence against women portrayed in this book has happened over and over again. The symbolism is great. I couldn't put this one down. (It was really scary though). 
 </p>
