@@ -38,5 +38,5 @@ permalink: /books/the-data-detective-ten-easy-rules-to-make-sense-of-statistics/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+The stories that Harford uses to illustrate statistical concepts were fascinating. This book is full of information but doesn't read like a textbook. Very interesting read. :)
 </p>
