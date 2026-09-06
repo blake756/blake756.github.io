@@ -38,5 +38,5 @@ permalink: /books/lies-my-teacher-told-me-3rd-edition/
 <h2>My Review</h2>
 
 <p>
-Write your review here!
+I learned a lot reading this book. This brought my attention to how history is taught and what can be done to improve the way history is taught in schools in the U.S. It is simply a great book. I think everyone should read it. 
 </p>
