@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "We Solve Murders"
-permalink: /books/wesolvemurders/
+permalink: /books/we-solve-murders/
 ---
 
 <div class="book-page">
@@ -15,7 +15,7 @@ permalink: /books/wesolvemurders/
 
     <div class="book-info">
 
-      <h1>We Solve Murders/h1>
+      <h1>We Solve Murders</h1>
 
       <h2>Richard Osman</h2>
 
