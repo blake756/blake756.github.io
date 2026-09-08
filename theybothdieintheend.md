@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "They Both Die in the End"
-permalink: /books/theybothdieintheend/
+permalink: /books/they-both-die-in-the-end/
 ---
 
 <div class="book-cover">
