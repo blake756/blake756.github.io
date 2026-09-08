@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Wrath of the Triple Goddess"
-permalink: /books/triplegoddess/
+permalink: /books/wrath-of-the-triple-goddess/
 ---
 
 <div class="book-page">
