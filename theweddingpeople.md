@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Wedding People"
-permalink: /books/theweddingpeople/
+permalink: /books/the-wedding-people/
 ---
 
 <div class="book-cover">
