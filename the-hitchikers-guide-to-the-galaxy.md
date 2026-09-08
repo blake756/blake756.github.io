@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Hitchiker's Guide to the Galaxy"
-permalink: /books/the-hitchhikers-guide-to-the-galaxy/
+permalink: /books/the-hitchikers-guide-to-the-galaxy/
 ---
 
 <div class="book-cover">
